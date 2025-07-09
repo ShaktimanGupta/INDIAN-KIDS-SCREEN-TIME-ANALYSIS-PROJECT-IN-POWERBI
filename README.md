@@ -19,9 +19,6 @@ This interactive Power BI dashboard analyzes screen time habits of **10,000 Indi
 - Data cleaning and transformation in **Power Query**
 - **DAX** for calculations and custom measures
 
-## 📎 Screenshot:
-![Indian Kids Screen Time Analysis Dashboard](./820eeee9-4b62-48fb-8c0e-a3d03a7a909f.png)
-
 ## 📂 Applications:
 - Useful for parents, schools, NGOs, and policy makers
 - Promotes awareness of digital health in children
